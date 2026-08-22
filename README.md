@@ -4,7 +4,7 @@
 <h3 align="center">Software Engineering | Desainer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=pembuat%20karya%20digital%20Creative" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2cc4b0&center=true&vCenter=true&width=435&lines=pembuat%20karya%20digital%20Creative" alt="Typing SVG" />
 </p>
 
 <p align="center">
