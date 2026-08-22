@@ -1,5 +1,5 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&text=PUTRA%20DEV&fontSize=53&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&desc=INDONESIA&descSize=20&descAlignY=20&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&text=PUTRA%20DEV&fontSize=53&fontColor=FFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&desc=INDONESIA&descSize=20&descAlignY=20&textBg=false&color=2cc4b0"  />
 </div>
 <h1 align="center">Hi there, I'm Putra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
