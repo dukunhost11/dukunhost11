@@ -109,8 +109,12 @@ I am a passionate Software Engineering Student and Developer from Indonesia who 
   <img src="https://raw.githubusercontent.com/dukunhost11/dukunhost11/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-##
 
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&fontSize=53&fontColor=FFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlignY=20&textBg=false&color=2cc4b0"  />
+</div>
+
+###
 ---
 
 
