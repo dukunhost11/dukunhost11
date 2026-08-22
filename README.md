@@ -109,6 +109,22 @@ I am a passionate Software Engineering Student and Developer from Indonesia who 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dukunhost11&" alt="dukunhost11" /></p>
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=dukunhost11&show_icons=true&theme=github_dark&hide_border=false&border_color=8B949E&title_color=8FAAC4&text_color=A9B7C6&icon_color=8FAAC4" 
+    alt="GitHub Stats" 
+  />
+</p>
+
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukunhost11&layout=compact&theme=github_dark&hide_border=false&border_color=8B949E&title_color=8FAAC4&text_color=A9B7C6" 
+    alt="Most Used Languages" 
+  />
+</p>
+
 ---
 
 
