@@ -10,9 +10,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dukunhost11&label=Profile%20Views&color=2cc4b0&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/dukunhost11?label=Followers&style=flat&color=f48930" />
-   <a href="LINK_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <img src="https://img.shields.io/badge/Public%20Repos-14-2cc4b0?style=flat" />
 </p>
 
