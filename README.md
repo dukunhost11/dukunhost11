@@ -119,13 +119,6 @@ I am a passionate Software Engineering Student and Developer from Indonesia who 
   />
 </p>
 
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukunhost11&layout=compact&theme=github_dark&hide_border=false&border_color=8B949E&title_color=8FAAC4&text_color=A9B7C6" 
-    alt="Most Used Languages" 
-  />
-</p>
-
 ---
 
 
