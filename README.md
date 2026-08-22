@@ -99,25 +99,14 @@ I am a passionate Software Engineering Student and Developer from Indonesia who 
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
   
-</p>
+###
 
-## GitHub Stats
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/dukunhost11/dukunhost11/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/dukunhost11/dukunhost11/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dukunhost11&show_icons=true&locale=en&layout=compact" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dukunhost11&show_icons=true&locale=en"  /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dukunhost11&" alt="dukunhost11" /></p>
-
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=dukunhost11&show_icons=true&theme=github_dark&hide_border=false&border_color=8B949E&title_color=8FAAC4&text_color=A9B7C6&icon_color=8FAAC4" 
-    alt="GitHub Stats" 
-  />
-</p>
+###
 
 ---
 
