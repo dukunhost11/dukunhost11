@@ -11,12 +11,12 @@
   <img src="https://komarev.com/ghpvc/?username=dukunhost11&label=Profile%20Views&color=2cc4b0&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/dukunhost11?label=Followers&style=flat&color=f48930" />
   <img src="https://img.shields.io/badge/Public%20Repos-14-2cc4b0?style=flat" />
-  ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=316zxtldxzvtyvjv3xuo6t5acr7y&username=id)
+ 
 </p>
 
 ---
 
-## About Me
+## **About Me**
 
 I am a passionate Software Engineering Student and Developer from Indonesia who enjoys building modern, efficient, and user-friendly digital solutions. I have experience working with a wide range of programming languages, frameworks, databases, APIs, and development tools, and I am highly adaptable to learning and working with new technologies. My interests include web development, mobile applications, backend systems, UI/UX, payment technology, and server infrastructure. I am continuously improving my skills, building innovative projects, and turning ideas into real digital products.
 ###
@@ -24,7 +24,7 @@ I am a passionate Software Engineering Student and Developer from Indonesia who 
 <img data-importer="snake" src="https://raw.githubusercontent.com/dukunhost11/dukunhost11/snake-output/snake.svg" alt="Snake animation" />
 ###
 
-## Tech Stack
+## **Tech Stack**
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
@@ -105,12 +105,17 @@ I am a passionate Software Engineering Student and Developer from Indonesia who 
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
   
-## GitHub Stats:
+## **GitHub Stats**:
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/dukunhost11/dukunhost11/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/dukunhost11/dukunhost11/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+## **Playlist Me** :
+<p align="center">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=316zxtldxzvtyvjv3xuo6t5acr7y&username=id" alt="Spotify recently played" />
+</p>
 
 
 <div data-importer="border">
@@ -118,6 +123,6 @@ I am a passionate Software Engineering Student and Developer from Indonesia who 
 </div>
 
 ###
----
+
 
 
