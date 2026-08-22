@@ -11,6 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=dukunhost11&label=Profile%20Views&color=2cc4b0&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/dukunhost11?label=Followers&style=flat&color=f48930" />
   <img src="https://img.shields.io/badge/Public%20Repos-14-2cc4b0?style=flat" />
+  ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=316zxtldxzvtyvjv3xuo6t5acr7y&username=id)
 </p>
 
 ---
