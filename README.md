@@ -102,8 +102,6 @@ I am a passionate Software Engineering Student and Developer from Indonesia who 
 
 ## GitHub Stats
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dukunhost11&show_icons=true&locale=en&layout=compact" alt="dukunhost11" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dukunhost11&show_icons=true&locale=en" alt="dukunhost11" /></p>
