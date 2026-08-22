@@ -17,6 +17,13 @@
 
 I am a passionate Software Engineering Student and Developer from Indonesia who enjoys building modern, efficient, and user-friendly digital solutions. I have experience working with a wide range of programming languages, frameworks, databases, APIs, and development tools, and I am highly adaptable to learning and working with new technologies. My interests include web development, mobile applications, backend systems, UI/UX, payment technology, and server infrastructure. I am continuously improving my skills, building innovative projects, and turning ideas into real digital products.
 
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/dukunhost11/dukunhost11/snake-output/snake.svg" alt="Snake animation" />
+
+###
 
 ## Tech Stack
 
